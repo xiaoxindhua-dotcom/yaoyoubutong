@@ -7,3 +7,5 @@
 `ip-flat.html` 为新一批平面器物IP图册：4张旧图重做及6张补齐，共覆盖老师红勾的52个档案序号，支持按序号找图和保存PNG。图形与色彩为IP转译，待核归属保留。
 
 `level1-shape-logic-reader.html` 可阅读和下载第一关“识形”逻辑稿；独立文件为 `level1-shape-logic.pdf`（一页，约5KB）。仅讨论同器型三连规则及IP介绍，不包含新试玩程序。
+
+`xicun152-preview.html` 为西村窑152号最新平面视觉试样的小文件预览，可保存预览PNG。`xicun152-preview.jpg` 可直接浏览；`xicun152-flat-print.png` 为原始生成PNG。此为视觉试样，尚未替换既有52件IP图册中的设计。

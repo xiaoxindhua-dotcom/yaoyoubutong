@@ -8,4 +8,6 @@
 
 `level1-shape-logic-reader.html` 可阅读和下载第一关“识形”逻辑稿；独立文件为 `level1-shape-logic.pdf`（一页，约5KB）。仅讨论同器型三连规则及IP介绍，不包含新试玩程序。
 
-`xicun152-preview.html` 为西村窑152号最新平面视觉试样的小文件预览，可保存预览PNG。`xicun152-preview.jpg` 可直接浏览；`xicun152-flat-print.png` 为原始生成PNG。此为视觉试样，尚未替换既有52件IP图册中的设计。
+`xicun152-preview.html` 为西村窑152号最新平面视觉试样的小文件预览，可保存预览PNG。`xicun152-preview.jpg` 可直接浏览；`xicun152-flat-print.png` 为原始生成PNG。此图现作为52件最新单器物版画IP的风格基准。
+
+`print-ip-gallery.html` 为最新的52件单器物平面版画IP，包含原样保留的152号与新生成的51件。支持按档案序号、器型、纹样搜索、窑口筛选、逐张预览和PNG保存。原始PNG、轻量JPG及可保存PNG的独立小页面位于 `print-ip-images/`。22、25、27、112、165号缺同编号实物照片，配色待核；问号窑口及未确认用途保留。全器造型是设计补全，不作为文物科学复原图。
